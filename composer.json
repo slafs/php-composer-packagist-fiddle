@@ -1,0 +1,17 @@
+{
+    "name": "slafs/foobar",
+    "type": "library",
+    "description": "Supertab API client",
+    "homepage": "https://github.co/laterpay/getsupertab",
+    "authors": [
+        {
+            "name": "Supertab Dev Team",
+            "email": "hello@supertab.co",
+            "homepage": "https://supertab.co",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=8.0.0"
+    },
+}
